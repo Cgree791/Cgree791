@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cjwalkscoo
+- 👀 I’m interested in Making random ass websites and games
+- 🌱 I’m currently learning Java, Javascript, C++, C#
