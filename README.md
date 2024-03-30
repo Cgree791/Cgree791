@@ -1,3 +1,10 @@
-- 👋 Hi, I’m @cjwalkscoo
-- 👀 I’m interested in Making random ass websites and games
-- 🌱 I’m currently learning Java, Javascript, C++, C#
+- Hi, I’m Clayton J. Green
+- I’m interested in Making random  websites and games
+- I’m currently learning Java, Javascript, C++, C#
+- I'm pretty laid back and like to go with the Flow
+- I'm currently certified in Python and Html/Css
+- I'm a Extrovert and a Introvert  - I can talk to people very clearly and i do enjoy it, but i rather mind my own buisness
+- I get along with people
+- I am very nice and respectful with great manner, and i care about other physical/mental wellbeing
+- I Find coding very fun but tend to struggle at times when I'm told to do something without any clear actions i should take
+- I like to joke around and do silly stuff and be overall fun 
