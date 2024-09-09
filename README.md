@@ -25,5 +25,5 @@ I aim to keep things lighthearted and fun, often joking around while enjoying th
 - **GitHub:** [View My Profile](https://github.com/Cgree791) (Check out my projects and contributions.)
 - **LinkedIn:** [View My Profile](https://www.linkedin.com/in/clayton-green-256477300) (Let's network and grow together.)
 - **Email:** [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=cjwalkscool@gmail.com) (Feel free to reach out for collaborations or inquiries.) *(NON PROFESSIONAL)*
-- **Discord:** Semp1 [Add/Message Me](https://discord.com/users/595681336816173074) *(Open to chat about coding, games, and development! NON PROFESSIONAL)*
+- **Discord:** [Add/Message Me](https://discord.com/users/595681336816173074) *(Open to chat about coding, games, and development! NON PROFESSIONAL)*
 
