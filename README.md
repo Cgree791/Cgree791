@@ -14,9 +14,9 @@ I aim to keep things lighthearted and fun, often joking around while enjoying th
   - HTML/CSS
 - **Currently Learning**: 
   - Java 
-  - JavaScript 
+  - JavaScript (Most Proficient)
   - C++
-  - C#
+  - C# 
 
 ---
 
