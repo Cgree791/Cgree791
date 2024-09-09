@@ -1,10 +1,24 @@
-- Hi, I’m Clayton J. Green
-- I’m interested in Making random  websites and games
-- I’m currently learning Java, Javascript, C++, C#
-- I'm pretty laid back and like to go with the Flow
-- I'm currently certified in Python and Html/Css
-- I'm a Extrovert and a Introvert  - I can talk to people very clearly and i do enjoy it, but i rather mind my own buisness
-- I get along with people
-- I am very nice and respectful with great manner, and i care about other physical/mental wellbeing
-- I Find coding very fun but tend to struggle at times when I'm told to do something without any clear actions i should take
-- I like to joke around and do silly stuff and be overall fun 
+# 👋 About Me
+
+Hi, I'm **Clayton J. Green**, a passionate developer focused on creating websites and games. I’m currently certified in **Python** and **HTML/CSS**, while expanding my skill set with **Java**, **JavaScript**, **C++**, and **C#**. I find coding exciting and love solving problems, although I thrive best when provided with clear directions.
+
+I'm an **ambivert**, enjoying social interaction but equally valuing my own space to focus. I believe in strong values like **respect**, **good manners**, and ensuring the physical and mental well-being of those around me.
+
+I aim to keep things lighthearted and fun, often joking around while enjoying the process of development. Coding is a balance of creativity and logic for me, and I’m always eager to learn and grow in this ever-evolving field.
+
+---
+
+## 🚀 Skills
+- **Certified**: 
+  - Python 
+  - HTML/CSS
+- **Currently Learning**: 
+  - Java 
+  - JavaScript 
+  - C++
+  - C#
+
+---
+
+## 🔗 Connect with Me
+- GitHub: [Your GitHub Profile URL]
