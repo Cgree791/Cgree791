@@ -21,4 +21,7 @@ I aim to keep things lighthearted and fun, often joking around while enjoying th
 ---
 
 ## 🔗 Connect with Me
-- GitHub: [Your GitHub Profile URL]
+- GitHub: https://github.com/Cgree791 (Check out my projects and contributions.)
+- LinkedIn: www.linkedin.com/in/clayton-green-256477300 (Let's network and grow together.)
+- Email: cjwalkscool@gmail.com (Feel free to reach out for collaborations or inquiries.) (NON PROFESSIONAL)
+- Discord: semp1 (Open to chat about coding, games, and development!)  (NON PROFESSIONAL)
