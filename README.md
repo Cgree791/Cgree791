@@ -35,4 +35,4 @@ I aim to keep things lighthearted and fun, often joking around while enjoying th
 
 - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
 
-- ![Fun GIF]([https://media.giphy.com/media/d1E1msx7Yw5NeRQ/giphy.gif](https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif))
+- ![Fun GIF](https://media.giphy.com/media/d1E1msx7Yw5NeRQ/giphy.gif](https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif)
