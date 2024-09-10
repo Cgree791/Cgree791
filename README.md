@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 # 👋 About Me
 
 Hi, I'm **Clayton J. Green**, a passionate developer focused on creating websites and games. I’m currently certified in **Python** and **HTML/CSS**, while expanding my skill set with **Java**, **JavaScript**, **C++**, and **C#**. I find coding exciting and love solving problems, although I thrive best when provided with clear directions.
