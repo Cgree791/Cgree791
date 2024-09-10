@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 # 👋 About Me
 
 Hi, I'm **Clayton J. Green**, a passionate developer focused on creating websites and games. I’m currently certified in **Python** and **HTML/CSS**, while expanding my skill set with **Java**, **JavaScript**, **C++**, and **C#**. I find coding exciting and love solving problems, although I thrive best when provided with clear directions.
@@ -30,3 +28,12 @@ I aim to keep things lighthearted and fun, often joking around while enjoying th
 - **Discord:** [Add/Message Me](https://discord.com/users/595681336816173074) *(Open to chat about coding, games, and development! NON PROFESSIONAL)*
 - **Twitter:** [Tweet Me](https://x.com/Cgree791)  *(Follow for updates and thoughts on coding, games, and more!)*
 - **Facebook:** [Message me](https://www.facebook.com/Cgree791) *(Reach out for personal updates and general chat!)*
+
+## 📊User Stats
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Fun GIF](https://media.giphy.com/media/d1E1msx7Yw5NeRQ/giphy.gif)
+
+-###
