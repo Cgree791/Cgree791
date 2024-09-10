@@ -31,8 +31,6 @@ I aim to keep things lighthearted and fun, often joking around while enjoying th
 
 ## 📊User Stats
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+###![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
-
-- ![Fun GIF](https://media.giphy.com/media/d1E1msx7Yw5NeRQ/giphy.gif](https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif)
+###![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
