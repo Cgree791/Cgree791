@@ -31,4 +31,6 @@ I aim to keep things lighthearted and fun, often joking around while enjoying th
 
 ## 📊User Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
